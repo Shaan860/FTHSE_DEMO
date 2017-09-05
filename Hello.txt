@@ -4,3 +4,5 @@ This is localy changes done on RDP
 =======
 This is Hello.txt file.
 >>>>>>> b0b4638c6863b2a4f1521c8e5c232438d04af088
+
+Hello Current B
